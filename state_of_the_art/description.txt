@@ -1,0 +1,9 @@
+https://zenodo.org/record/1207374#.YritHnZBwgA
+
+A recent overview of the state-of-the-art elements of text classification - dataset
+ Marcin Mirończuk
+
+The two available datasets were used to conduct the quantitative (количественного) analysis of the text classification area. The set, such as:
+
+biblio.bib contains all articles that are grouped in categories
+biblio.csv contains processed records from biblio.bib, based on it were built the statistics presented in the article
